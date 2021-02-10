@@ -1,3 +1,4 @@
 Hello World!
 안녕하세요.
 Bye..
+어렵다.
